@@ -1,0 +1,10 @@
+C:\БГУИР\2 КУРС\ЯП\курсач\SudokyProject\SudokyProject\bin\Debug\SudokyProject.exe.config
+C:\БГУИР\2 КУРС\ЯП\курсач\SudokyProject\SudokyProject\bin\Debug\SudokyProject.exe
+C:\БГУИР\2 КУРС\ЯП\курсач\SudokyProject\SudokyProject\bin\Debug\SudokyProject.pdb
+C:\БГУИР\2 КУРС\ЯП\курсач\SudokyProject\SudokyProject\obj\Debug\SudokyProject.csprojResolveAssemblyReference.cache
+C:\БГУИР\2 КУРС\ЯП\курсач\SudokyProject\SudokyProject\obj\Debug\SudokyProject.Form1.resources
+C:\БГУИР\2 КУРС\ЯП\курсач\SudokyProject\SudokyProject\obj\Debug\SudokyProject.Properties.Resources.resources
+C:\БГУИР\2 КУРС\ЯП\курсач\SudokyProject\SudokyProject\obj\Debug\SudokyProject.csproj.GenerateResource.Cache
+C:\БГУИР\2 КУРС\ЯП\курсач\SudokyProject\SudokyProject\obj\Debug\SudokyProject.exe
+C:\БГУИР\2 КУРС\ЯП\курсач\SudokyProject\SudokyProject\obj\Debug\SudokyProject.pdb
+C:\БГУИР\2 КУРС\ЯП\курсач\SudokyProject\SudokyProject\obj\Debug\SudokyProject.Form2.resources
